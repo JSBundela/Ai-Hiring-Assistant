@@ -126,5 +126,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Deep Translator](https://pypi.org/project/deep-translator/) – For enabling multi-language support.
 
 ---
-
-Feel free to adjust the content to match any additional details or customizations in your project.
