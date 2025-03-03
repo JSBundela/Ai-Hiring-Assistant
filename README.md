@@ -1,6 +1,3 @@
-Below is a sample `README.md` file you can use for your GitHub repository:
-
----
 
 # TalentScout AI Interviewer 🤖
 
