@@ -21,7 +21,7 @@ TalentScout AI Interviewer is an AI-powered technical screening assistant built 
 - [Streamlit](https://streamlit.io/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 - [Deep Translator](https://pypi.org/project/deep-translator/)
-- [Ollama](https://github.com/ollama/ollama) (Ensure you have access to this API/model)
+- [Ollama](https://github.com/ollama/ollama) 
 - [nltk](https://www.nltk.org/)
 - [certifi](https://pypi.org/project/certifi/)
 
