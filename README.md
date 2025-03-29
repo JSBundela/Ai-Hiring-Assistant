@@ -30,7 +30,7 @@ TalentScout AI Interviewer is an AI-powered technical screening assistant built 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/talentscout-ai-interviewer.git
+   git clone https://github.com/JSBundela/Ai-Hiring-Assistant.git
    cd talentscout-ai-interviewer
    ```
 
